@@ -2,4 +2,5 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00 360 L11 Importing a VirtualBox Debian Guest, Running a VirtualBox Debian Guest, Dress up virtual guest, PULL from / PUSH to GitHub.com
+ZCZC W01 360 L11 Importing a VirtualBox Debian Guest, Running a VirtualBox Debian Guest, Dress up virtual guest, PULL from / PUSH to GitHub.com
+ZCZC W01 10 L11 Make links.md
