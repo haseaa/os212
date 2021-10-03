@@ -15,3 +15,6 @@ This is tutorial for beginners in Linux.
 
 ### 4. [Nano tutorial](https://www.youtube.com/watch?v=Jf0ZJZJ8jlI)
 How to use nano for beginner.
+
+### 5. [Tutorial Git dalam Bahasa Indonesia](https://www.youtube.com/watch?v=fQbTeNX1mvM)
+Sangat cocok untuk orang yang kurang mengerti Bahasa Inggris.
