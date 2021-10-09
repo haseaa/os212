@@ -8,3 +8,6 @@ ZCZC W03 indiradr
 ZCZC W04 icarustrench
 ZCZC W04 huanis
 ZCZC W04 indramahaarta
+ZCZC W05 icarustrench
+ZCZC W05 huanis
+ZCZC W05 indramahaarta
