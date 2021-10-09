@@ -19,5 +19,5 @@ How to use nano for beginner.
 ### 5. [Tutorial Git dalam Bahasa Indonesia](https://www.youtube.com/watch?v=fQbTeNX1mvM)
 Sangat cocok untuk orang yang kurang mengerti Bahasa Inggris.
 
-### 6. [OS Book](https://www.os-book.com/OS10/)
-OS Book.
+### 6. [OS Assignment](https://osp4diss.vlsm.org/)
+OS Assignment.
