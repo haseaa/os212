@@ -21,3 +21,5 @@ Sangat cocok untuk orang yang kurang mengerti Bahasa Inggris.
 
 ### 6. [OS Assignment](https://osp4diss.vlsm.org/)
 OS Assignment.
+
+### 7. Nothing new in week06.
