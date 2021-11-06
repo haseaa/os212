@@ -22,4 +22,5 @@ Sangat cocok untuk orang yang kurang mengerti Bahasa Inggris.
 ### 6. [OS Assignment](https://osp4diss.vlsm.org/)
 OS Assignment.
 
-### 7. Nothing new in week06.
+### 7. [File System](http://log0ymxm.github.io/slcc-eportfolio/su13-cs-1032-001-walsh/linux-notes/045-file-system-facts.html)
+Fact about file system
