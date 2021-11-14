@@ -26,4 +26,4 @@ OS Assignment.
 Fact about file system
 
 ### 8. [LFS](https://www.linuxfromscratch.org/)
-About linux from scratch
+About Linux From Scratch
