@@ -10,3 +10,4 @@ ZCZC W04 60 L14 Complete assignment week 04
 ZCZC W05 60 L15 Complete assignment week 05
 ZCZC W06 30 L16 Complete assignment week 06
 ZCZC W07 120 L17 Complete assignment week 07
+ZCZC W08 120 L18 Complete assignment week 08
