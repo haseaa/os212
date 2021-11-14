@@ -24,3 +24,6 @@ OS Assignment.
 
 ### 7. [File System](http://log0ymxm.github.io/slcc-eportfolio/su13-cs-1032-001-walsh/linux-notes/045-file-system-facts.html)
 Fact about file system
+
+### 8. [LFS](https://www.linuxfromscratch.org/)
+About linux from scratch
